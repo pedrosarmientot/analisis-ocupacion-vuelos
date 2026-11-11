@@ -1,4 +1,4 @@
-# Equipo 7 – Sistema de gestión de una aerolínea
+# Equipo 7 – Sistema de gestión de una aerolínea.
 
 **Universidad de Pinar del Río “Hermanos Saíz Montes de Oca”**  
 Asignatura: **Estructuras de Datos** · Curso 2026-2027 · 2do examen parcial
